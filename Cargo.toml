@@ -1,0 +1,9 @@
+[package]
+name = "amethystbench"
+version = "0.1.0"
+authors = ["Jojolepro <jojolepromain@gmail.com>"]
+
+[dependencies]
+amethyst = { git = "https://github.com/amethyst/amethyst", rev = "e8fc8f60040edf9208fa1fbd0c6436600f8e0b15" }
+time = "0.1"
+log = "0.4"
